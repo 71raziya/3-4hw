@@ -1,0 +1,15 @@
+
+.users{
+    display: flex;
+    float: left;
+    margin-right: 30px;
+    margin-top: 30px;
+    width: 300px;
+    height: auto;
+    border: 2px solid rgb(0, 238, 255);
+    border-radius: 25px;
+
+}
+.users ul{
+list-style: none;
+}
